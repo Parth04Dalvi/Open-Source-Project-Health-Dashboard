@@ -1,4 +1,7 @@
 📊 Open-Source Project Health Dashboard
+
+<img width="940" height="739" alt="image" src="https://github.com/user-attachments/assets/36839e1b-e360-4a4b-90eb-44f4cfc58ada" />
+
 Project Summary
 This application is designed to provide real-time, visual health metrics for any public GitHub repository. By leveraging the GitHub REST/GraphQL API, users can input a repository name (e.g., facebook/react) and instantly see key performance indicators (KPIs) like commit frequency, open vs. closed issue trends, pull request velocity, and active contributor counts.
 
